@@ -25,20 +25,23 @@ agent wrote, most of it is a mix. It ships under my name and I stand behind all 
 
 ## Tools, on npm
 
-| | | |
-| --- | --- | --- |
-| **[mycadre](https://github.com/flossypurse-studios/mycadre)** | Git worktrees that are ready to work — it refuses to delete work git has not accounted for. | [site](https://mycadre.dev) · [npm](https://www.npmjs.com/package/mycadre) |
-| **[gitsignet](https://github.com/flossypurse-studios/gitsignet)** | Stops commits authored as the wrong person before they leave the machine. | [site](https://gitsignet.dev) · [npm](https://www.npmjs.com/package/gitsignet) |
-| **[sottovoce](https://github.com/flossypurse-studios/sottovoce)** | Keeps the code in your docs in sync with the code in your repo, and says which snippet drifted. | [site](https://sottovoce.tools) · [npm](https://www.npmjs.com/package/sottovoce) |
-| **[packproof](https://github.com/flossypurse-studios/packproof)** | Installs your package the way a stranger would, and reports what is missing before your users find it. | [npm](https://www.npmjs.com/package/packproof) |
-| **[otherbox](https://github.com/flossypurse-studios/otherbox)** | Runs your tests on a box that isn't yours — one thing different at a time. | [npm](https://www.npmjs.com/package/otherbox) |
+- **[mycadre](https://github.com/flossypurse-studios/mycadre)** — git worktrees that are ready to work. It refuses to delete work git has not accounted for.
+  [site](https://mycadre.dev) · [npm](https://www.npmjs.com/package/mycadre)
+- **[gitsignet](https://github.com/flossypurse-studios/gitsignet)** — stops commits authored as the wrong person before they leave the machine.
+  [site](https://gitsignet.dev) · [npm](https://www.npmjs.com/package/gitsignet)
+- **[sottovoce](https://github.com/flossypurse-studios/sottovoce)** — keeps the code in your docs in sync with the code in your repo, and says which snippet drifted.
+  [site](https://sottovoce.tools) · [npm](https://www.npmjs.com/package/sottovoce)
+- **[packproof](https://github.com/flossypurse-studios/packproof)** — installs your package the way a stranger would, and reports what is missing before your users find it.
+  [npm](https://www.npmjs.com/package/packproof)
+- **[otherbox](https://github.com/flossypurse-studios/otherbox)** — runs your tests on a box that isn't yours, one thing different at a time.
+  [npm](https://www.npmjs.com/package/otherbox)
 
 ## Projects
 
-| | | |
-| --- | --- | --- |
-| **[pitchroots](https://github.com/flossypurse-studios/pitchroots)** | Canadian soccer in one feed, so following it does not mean checking six different sites. | [site](https://pitchroots.ca) |
-| **Tamrack** | An Alberta economic intelligence dashboard — public data pulled together into a picture of how the provincial economy is actually moving. | [site](https://albertapulsecheck.ca) |
+- **[pitchroots](https://github.com/flossypurse-studios/pitchroots)** — Canadian soccer in one feed, so following it does not mean checking six different sites.
+  [pitchroots.ca](https://pitchroots.ca)
+- **Tamrack** — an Alberta economic intelligence dashboard. Public data pulled together into a picture of how the provincial economy is actually moving.
+  [albertapulsecheck.ca](https://albertapulsecheck.ca)
 
 Everything the studio runs is on the [work page](https://flossypurse.studio/work).
 
