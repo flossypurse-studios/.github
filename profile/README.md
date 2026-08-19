@@ -39,7 +39,7 @@ agent wrote, most of it is a mix. It ships under my name and I stand behind all 
 
 - **[pitchroots](https://github.com/flossypurse-studios/pitchroots)** — Canadian soccer in one feed, so following it does not mean checking six different sites.
   [pitchroots.ca](https://pitchroots.ca)
-- **Tamrack** — an Alberta economic intelligence dashboard. Public data pulled together into a picture of how the provincial economy is actually moving.
+- **Tamrack** — an Alberta economic intelligence dashboard. Public data pulled together into a picture of how the provincial economy is moving.
   [albertapulsecheck.ca](https://albertapulsecheck.ca)
 
 Everything the studio runs is on the [work page](https://flossypurse.studio/work).
