@@ -13,11 +13,10 @@
 
 I'm Cully Wakelin, and FlossyPurse Studios is my software studio. Senior engineering
 judgment, AI agents doing a lot of the hands-on work, priced against what software
-actually costs to make now rather than what it used to.
+costs to make now.
 
-Hard systems and AI-infrastructure work, for teams who own a problem that is not going
-away on its own. Boutique on purpose — you work with me directly, not with an account
-manager and a rotating bench.
+Hard systems and AI-infrastructure work, taken from diagnosis through to a shipped
+fix. Boutique on purpose — you work with me directly, start to finish.
 
 I use agents across the whole build: writing code, running tests, shipping releases,
 keeping documentation honest. Some of what is in these repositories I wrote, some an
